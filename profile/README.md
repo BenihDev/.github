@@ -15,9 +15,12 @@ At BenihKode, we believe that every great project starts with a single line of c
 
 ## 📂 Featured Projects
 
-Explore our repositories to find tools, boilerplates, and tutorials designed to jumpstart your development:
-- *[Project 1]* - Brief description.
-- *[Project 2]* - Brief description.
+Developer tools built by BenihKode. Full list and install notes: [benihkode.web.id/tools](https://www.benihkode.web.id/tools/)
+
+- [gitcommitgen](https://www.benihkode.web.id/tools/gitcommitgen/) - AI-generated conventional commit messages from staged changes.
+- [gitprgen](https://www.benihkode.web.id/tools/gitprgen/) - AI-generated pull request descriptions from git diffs.
+- [secretsweep](https://www.benihkode.web.id/tools/secretsweep/) - Secret scanning for staged files.
+- [mcpkit](https://www.benihkode.web.id/tools/mcpkit/) - Generate MCP servers from OpenAPI specs, databases, or YAML.
 
 ## 🤝 Join the Struggle (Contribute)
 
@@ -31,8 +34,9 @@ We value contributions from developers of all skill levels. Whether you're fixin
 
 Stay updated and get support from the community:
 - **GitHub Discussions:** Ask questions and share your progress.
-- **Discord/Slack:** [Join our community chat] (Coming soon!)
-- **Twitter/X:** [@BenihKode](https://twitter.com/BenihKode)
+- **Website:** [benihkode.web.id](https://www.benihkode.web.id)
+- **X / Twitter:** [@benihkode](https://twitter.com/benihkode)
+- **LinkedIn:** [BenihKode](https://linkedin.com/company/benihkode)
 
 ---
 
